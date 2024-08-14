@@ -1,0 +1,12 @@
+  <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-firestore.js"></script>
+
+  <script>
+    var firebaseConfig = {
+      // credenciales de firebase
+    
+    };
+    // Inicializar Firebase
+    firebase.initializeApp(firebaseConfig);
+
+  </script> 
